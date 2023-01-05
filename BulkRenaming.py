@@ -154,10 +154,11 @@ frame_all = tk.Tk()
 frame_all.title("BulkRenamingForLibraryCollections")
 frame_all.iconbitmap('favicon.ico')
 frame_all.geometry('800x600')
-note1 = ttk.Notebook(frame_all,width=800, height=600)  # 1 创建Notebook组件
+note1 = ttk.Notebook(frame_all,width=800, height=600)
 note1.pack(fill=tk.BOTH, expand=True)
-frame = tk.Frame(frame_all, bg='lightblue')  # 2 创建选项卡1的容器框架
-frame2 = tk.Frame(frame_all, bg='lightgreen')
+frame = tk.Frame(frame_all)
+frame2 = tk.Frame(frame_all)
+frame3 = tk.Frame(frame_all)
 
 style = ttkbootstrap.Style("sandstone")
 menubar = tk.Menu(frame_all)
@@ -399,6 +400,60 @@ vsb_h.place(x=0, y=500, width=550)
 tree3.configure(xscrollcommand=vsb_h.set)
 tree3.place(x=0, y=100, width=550, height=400)
 
+
+
+
+# trid
+def fun_trid():
+    """
+    created by Tracy Popp
+
+    :return:
+    """
+    import os, subprocess, pathlib
+    from tkinter.filedialog import askdirectory
+
+    rootDir = askdirectory() #navigate to the directory where you would like to start trid analysis
+
+    #make sure this path matches the path to trid.exe on the machine you're running the script on
+    tridDir = ("trid.exe")
+
+    outfile = open('files.txt', 'w', encoding='utf-8')
+    tridOut = open("tridOutput.txt-"+str(now.strftime("%Y%m%d%H%M%S"))+".txt", 'w', encoding='utf-16')
+
+    file_count = 0
+    fileList = []
+    # traversing the dir tree code from here: https://stackoverflow.com/questions/9727673/list-directory-tree-structure-in-python
+
+    for root, dirs, files in os.walk(rootDir):
+        level = root.replace(rootDir, '').count(os.sep)
+        indent = ' ' * 4 * (level)
+        print('{}{}/'.format(indent, os.path.basename(root)), file=outfile)
+        subindent = ' ' * 4 * (level + 1)
+        for f in files:
+            print('{}{}'.format(subindent, f))
+            tridFilePath = (os.path.join(tridDir,root,f))
+            tridFileNorm = (os.path.normpath(tridFilePath))
+            tridArgsPath = (tridDir+" " + '"{}"'.format(tridFileNorm) + " -ce -v") #getting quotes to print tip found here: https://stackoverflow.com/questions/27757133/how-to-print-variable-inside-quotation-marks/27757142
+            subprocess.call(tridArgsPath, stdout=tridOut)
+            file_count += 1
+            fileList.append(f)
+
+    outfile.write("\n".join(fileList)) #unpacking the list elements from fileList and writing them out to the outfile
+    print("\n""\n" "TrID processed", file_count,  "files", file=outfile)
+    tridOut.close()
+    outfile.close()
+    lbl_trid_feedback = tk.Label(frame3, wraplength=300,
+                         text="Done. Find the output file in the same directory as this tool. ")
+    lbl_trid_feedback.place(x=10, y=300, width=800, height=200)
+
+TrIDButton = tk.Button(frame3,
+                     text="Choose a directory",
+                     command=fun_trid)
+TrIDButton.place(x=350,y=230, width=150, height=30)
+lbl_trid_intro = tk.Label(frame3,  wraplength=300, text="This function allows users to browse to a directory, scans the directory for files without extensions. TRiD tries to identify the file types and append an appropriate file extension. The script should also create a report identifying which files have been modified. ")
+lbl_trid_intro.place(x=10, y=10, width=800, height=200)
 note1.add(frame, text='Rename')
 note1.add(frame2, text='Search')
+note1.add(frame3, text='TrID')
 frame_all.mainloop()

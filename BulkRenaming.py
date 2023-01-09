@@ -18,10 +18,10 @@ def show_all_files(dire, root, tree):
     """
     given the file_folder path, using the Treeview to show all the files in the subfolder
 
-    :param dire:
-    :param root:
-    :param tree:
-    :return:
+    :param dire: the path of the directory
+    :param root: the root of the treeview
+    :param tree: the treeview created
+    :return:the updated treeview
     """
     for home, subdirs, files in os.walk(dire):
         for idx, dire in enumerate(subdirs):
@@ -39,10 +39,11 @@ def show_all_files(dire, root, tree):
 
 def rename_file(replace_bf, replace_af, file_path):
     """
+    This function is designed to rename the files.
 
-    :param replace_bf:
-    :param replace_af:
-    :param file_path:
+    :param replace_bf: the character you want to replace
+    :param replace_af: the character you want to replace with
+    :param file_path: the original file path
     :return:
     """
     t1 = "\\\\?\\"
@@ -70,7 +71,7 @@ def rename_file(replace_bf, replace_af, file_path):
 
 def quick_rename(file_path):
     """
-
+    This is the function for the quick renaming, to strip all the |$|-|_|&|@|=|;|/|:|+|,|?|\|{|^|}|%|`|]|"|>|[|~|<|#||| in the file paths.
     :param replace_bf:
     :param replace_af:
     :param file_path:

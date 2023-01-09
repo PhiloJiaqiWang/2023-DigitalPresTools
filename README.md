@@ -1,11 +1,11 @@
 # 2023-DigitalPresTool
 This tool is designed and developed by Digital Preservation Department in UIUC library. The purpose of this tool is to assist the library staff manage the archive documents and files.
 ## Table of Contents
-[Version Control](#Version)  
-[How to Download](#download)  
-[Rename](#rename)  
-[Search](#search)  
-[TrID](#TrID)  
+- [Version Control](#Version)  
+- [How to Download](#download)  
+- [Rename](#rename)  
+- [Search](#search)  
+- [TrID](#TrID)  
 ## Version Control<a name="Version"></a>
 - v1.0, 01/2023
 ## How to Download<a name="download"></a>

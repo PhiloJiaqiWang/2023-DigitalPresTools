@@ -2,13 +2,14 @@
 This tool is designed and developed by Digital Preservation Department in UIUC library. The purpose of this tool is to assist the library staff manage the archive documents and files.
 ## Table of Contents
 1. [Version Control](#Version)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+2. [How to Download](#download)
+3. [Rename](#rename)
+4. [Search](#search)
+5. [TrID](#TrID)
 ## Version Control<a name="Version"></a>
 - v1.0, 01/2023
-## How to Download
-## Rename
+## How to Download<a name="download"></a>
+## Rename<a name="rename"></a>
 ![Image text](https://github.com/PhiloJiaqiWang/2023-DigitalPresTools/blob/main/imgs/Rename1.png)
 - A  
 Enter the path of the target directory, and press go.
@@ -26,7 +27,7 @@ This button is for the quick renaming, once clicking on the button, it'll strip 
 - G  
 After the renaming is completed, click on the export button. A csv file includes the original file names and the renamed file names will be generated under the same folder you put the Bulkrenaming.exe.
 ![Image text](https://github.com/PhiloJiaqiWang/2023-DigitalPresTools/blob/main/imgs/Rename3.png)
-## Search
+## Search<a name="search"></a>
 ![Image text](https://github.com/PhiloJiaqiWang/2023-DigitalPresTools/blob/main/imgs/Search1.png)
 - A  
 Browse the target directory
@@ -41,7 +42,7 @@ After clicking on the Search Button or Search for long path files Button, all th
 Shows the number of files that meet the conditions
 - G  
 If you are searching for the long path files, after the search, an export button will appaer. Click on the Export Button, a csv file includes all the long file paths will be generated under the same folder you put the Bulkrenaming.exe.
-## TrID
+## TrID<a name="TrID"></a>
 ![Image text](https://github.com/PhiloJiaqiWang/2023-DigitalPresTools/blob/main/imgs/TRID1.png)
 - A  
 Click on this button to browse the target directory. The script calls the command line version of the program, allows users to browse to a directory, scans the directory for files without extensions. TRiD tries to identify the file types and append an appropriate file extension. The script should also create a report identifying which files have been modified. The report is also under the same folder as you put the Bulkrenaming.exe 

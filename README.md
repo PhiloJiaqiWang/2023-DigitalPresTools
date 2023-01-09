@@ -9,6 +9,13 @@ This tool is designed and developed by Digital Preservation Department in UIUC l
 ## Version Control<a name="Version"></a>
 - v1.0, 01/2023
 ## How to Download<a name="download"></a>
+1. Go to [dowloading address](https://github.com/PhiloJiaqiWang/2023-DigitalPresTools)
+2. click on 'Code'  
+![Image text](https://github.com/PhiloJiaqiWang/2023-DigitalPresTools/blob/main/imgs/download1.png)
+3. click on download ZIP 
+![Image text](https://github.com/PhiloJiaqiWang/2023-DigitalPresTools/blob/main/imgs/download2.png)
+4. unzip the file and go in to the folder, find the Bulkrenaming.exe and click on that  
+![Image text](https://github.com/PhiloJiaqiWang/2023-DigitalPresTools/blob/main/imgs/download3.png)
 ## Rename<a name="rename"></a>
 ![Image text](https://github.com/PhiloJiaqiWang/2023-DigitalPresTools/blob/main/imgs/Rename1.png)
 - A  

@@ -58,14 +58,11 @@ def rename_file(replace_bf, replace_af, file_path):
         t3 = file_renamed
         dest = t1 + t3
         print(src, dest)
-        while True:
-            try:
-                os.rename(src, dest)
-                break
-            except FileNotFoundError:
-                tk.messagebox.showinfo(title='Wrong',
-                                       message='Ooops, something went wrong. Please email Philo (jiaqi17@illinois.edu)')
-                break
+        try:
+            os.rename(src, dest)
+        except:
+            tk.messagebox.showinfo(title='Wrong',
+                                   message=src + " can't be renamed.")
         lis_before.append(t2)
         lis_after.append(t3)
 
@@ -92,14 +89,11 @@ def quick_rename(file_path):
         t3 = file_renamed
         dest = t1 + t3
         print(src, dest)
-        while True:
-            try:
-                os.rename(src, dest)
-                break
-            except FileNotFoundError:
-                tk.messagebox.showinfo(title='Wrong',
-                                       message='Ooops, something went wrong. Please email Philo (jiaqi17@illinois.edu). Please refresh the path every time before replacing.')
-                break
+        try:
+            os.rename(src, dest)
+        except:
+            tk.messagebox.showinfo(title='Wrong',
+                                    message = src + " can't be renamed.")
         lis_before.append(t2)
         lis_after.append(t3)
 
@@ -149,6 +143,23 @@ def export_all():
         sheet.write(i+1, 0, lis_before[i])
         sheet.write(i+1, 1, lis_after[i])
     xl.save('FilesChange-'+str(now.strftime("%Y%m%d%H%M%S"))+'.xls')
+    with open('FilesChange-'+str(now.strftime("%Y%m%d%H%M%S"))+'.txt',"w") as f:
+        for i in range(0, len(lis_before)):
+            f.write("<premis:event xmlns:premis=\"http://www.loc.gov/premis/v3\"" + "\n")
+            f.write("xsi:schemaLocation=\"http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd\" version=\"3.0\">" + "\n")
+            f.write("<premis:eventIdentifier>" + "\n")
+            f.write("<premis:eventIdentifierType>UUID</premis:eventIdentifierType>" + "\n")
+            f.write("<premis:eventIdentifierValue>?</premis:eventIdentifierValue>" + "\n")
+            f.write("</premis:eventIdentifier>" + "\n")
+            f.write("<premis:eventDateTime>"+now.strftime("%Y-%m-%dT%H:%M:%SZ")+"</premis:eventDateTime>" + "\n")
+            f.write("<premis:eventDetailInformation>" + "\n")
+            f.write("<premis:eventDetail>prohibited characters removed: program=\"sanitize_names\"; version=\"?\"</premis:eventDetail>" + "\n")
+            f.write("</premis:eventDetailInformation>" + "\n")
+            f.write("<premis:eventOutcome></premis:eventOutcome>" + "\n")
+            f.write("<premis:eventOutcomeDetail>" + "\n")
+            f.write("<premis:eventOutcomeDetailNote>Original name=\""+lis_before[i]+"\"; cleaned up name=\""+lis_after[i]+"\"</premis:eventOutcomeDetailNote>" + "\n")
+            f.write("</premis:eventOutcomeDetail>" + "\n")
+            f.write("</premis:eventOutcomeInformation>" + "\n\n\n\n\n\n")
     lbl_message_for_replace.config(text="DONE.")
 
 frame_all = tk.Tk()

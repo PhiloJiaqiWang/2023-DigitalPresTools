@@ -446,7 +446,7 @@ def fun_trid():
             print('{}{}'.format(subindent, f))
             tridFilePath = (os.path.join(tridDir,root,f))
             tridFileNorm = (os.path.normpath(tridFilePath))
-            tridArgsPath = (tridDir+" " + '"{}"'.format(tridFileNorm) + " -ce -v") #getting quotes to print tip found here: https://stackoverflow.com/questions/27757133/how-to-print-variable-inside-quotation-marks/27757142
+            tridArgsPath = (tridDir+" " + '"{}"'.format(tridFileNorm) + " -v -r:2") #getting quotes to print tip found here: https://stackoverflow.com/questions/27757133/how-to-print-variable-inside-quotation-marks/27757142
             subprocess.call(tridArgsPath, stdout=tridOut)
             file_count += 1
             fileList.append(f)

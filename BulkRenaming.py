@@ -2,10 +2,12 @@ import tkinter as tk
 from tkinter import ttk
 import os
 from tkinter import filedialog
+from tkinter.filedialog import askdirectory
 import tkinter.messagebox
 import ttkbootstrap
 import xlwt
 import datetime
+import appendExtensions
 now = datetime.datetime.now()
 select_lis = []
 lis_before = []
@@ -163,7 +165,7 @@ def export_all():
     lbl_message_for_replace.config(text="DONE.")
 
 frame_all = tk.Tk()
-frame_all.title("BulkRenamingForLibraryCollections")
+frame_all.title("DCPP")
 frame_all.iconbitmap('favicon.ico')
 frame_all.geometry('800x600')
 note1 = ttk.Notebook(frame_all,width=800, height=600)
@@ -416,56 +418,28 @@ tree3.place(x=0, y=100, width=550, height=400)
 
 
 # trid
-def fun_trid():
+def extension_appending():
     """
-    created by Tracy Popp
+    note the trid can't work on the files path involving special characters like "-", the command line will get confused.
 
     :return:
     """
-    import os, subprocess, pathlib
-    from tkinter.filedialog import askdirectory
-
     rootDir = askdirectory() #navigate to the directory where you would like to start trid analysis
 
-    #make sure this path matches the path to trid.exe on the machine you're running the script on
-    tridDir = ("trid.exe")
+    file_lis_target = appendExtensions.search_all_files_without_extension(rootDir)  # change the directory in the path
+    appendExtensions.append_extensions(file_lis_target)
 
-    outfile = open('files.txt', 'w', encoding='utf-8')
-    tridOut = open("tridOutput.txt-"+str(now.strftime("%Y%m%d%H%M%S"))+".txt", 'w', encoding='utf-16')
-
-    file_count = 0
-    fileList = []
-    # traversing the dir tree code from here: https://stackoverflow.com/questions/9727673/list-directory-tree-structure-in-python
-
-    for root, dirs, files in os.walk(rootDir):
-        level = root.replace(rootDir, '').count(os.sep)
-        indent = ' ' * 4 * (level)
-        print('{}{}/'.format(indent, os.path.basename(root)), file=outfile)
-        subindent = ' ' * 4 * (level + 1)
-        for f in files:
-            print('{}{}'.format(subindent, f))
-            tridFilePath = (os.path.join(tridDir,root,f))
-            tridFileNorm = (os.path.normpath(tridFilePath))
-            tridArgsPath = (tridDir+" " + '"{}"'.format(tridFileNorm) + " -v -r:2") #getting quotes to print tip found here: https://stackoverflow.com/questions/27757133/how-to-print-variable-inside-quotation-marks/27757142
-            subprocess.call(tridArgsPath, stdout=tridOut)
-            file_count += 1
-            fileList.append(f)
-
-    outfile.write("\n".join(fileList)) #unpacking the list elements from fileList and writing them out to the outfile
-    print("\n""\n" "TrID processed", file_count,  "files", file=outfile)
-    tridOut.close()
-    outfile.close()
     lbl_trid_feedback = tk.Label(frame3, wraplength=300,
                          text="Done. Find the output file in the same directory as this tool. ")
     lbl_trid_feedback.place(x=10, y=300, width=800, height=200)
 
 TrIDButton = tk.Button(frame3,
                      text="Choose a directory",
-                     command=fun_trid)
+                     command=extension_appending)
 TrIDButton.place(x=350,y=230, width=150, height=30)
 lbl_trid_intro = tk.Label(frame3,  wraplength=300, text="This function allows users to browse to a directory, scans the directory for files without extensions. TRiD tries to identify the file types and append an appropriate file extension. The script should also create a report identifying which files have been modified. ")
 lbl_trid_intro.place(x=10, y=10, width=800, height=200)
 note1.add(frame, text='Rename')
 note1.add(frame2, text='Search')
-note1.add(frame3, text='TrID')
+note1.add(frame3, text='Extension Appending')
 frame_all.mainloop()

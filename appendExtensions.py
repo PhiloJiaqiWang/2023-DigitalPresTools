@@ -25,6 +25,21 @@ def search_all_files_without_extension(dire):
     return file_lis
 
 
+def generate_all_files_without_extension_distinct_mimetype(file_lis, if_csv=True):
+    """
+    this func generate a set of mimetypes which are all the mimetypes of the files without extension
+
+    :param file_lis:
+    :param if_csv:
+    :return:
+    """
+    mimeset = set()
+    for file in file_lis:
+        mimetype = magic.from_file(file, mime=True)
+        mimeset.add(mimetype)
+    return mimeset
+
+
 def append_extensions(file_lis):
     """
     this func is to append extensions based on the mimetypes
@@ -81,5 +96,7 @@ def show_all_files_mimetype(dire):
 
 
 if __name__ == '__main__':
-    file_lis_target = search_all_files_without_extension("C:/Users/jiaqi17/Desktop/test37")  # change the directory in the path
-    append_extensions(file_lis_target)
+    file_lis_target = search_all_files_without_extension("C:/Users/jiaqi17/Desktop/target files")  # change the directory in the path
+    sett = generate_all_files_without_extension_distinct_mimetype(file_lis_target)
+    print(sett)
+    # append_extensions(file_lis_target)

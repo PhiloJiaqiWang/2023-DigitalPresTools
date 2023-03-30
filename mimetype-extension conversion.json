@@ -1,0 +1,11 @@
+{
+    "application/CDFV2" : ".xls",
+    "text/plain": ".txt",
+    "application/octet-stream": ".bin",
+    "image/tiff": ".tif",
+    "application/pdf": ".pdf",
+    "application/vnd.ms-powerpoint": ".ppt",
+    "image/jpeg": ".jpg",
+    "application/vnd.lotus-1-2-3": ".WK4"
+
+}

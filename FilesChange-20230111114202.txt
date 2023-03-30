@@ -1,0 +1,6 @@
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>

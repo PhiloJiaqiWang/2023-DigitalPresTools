@@ -1,0 +1,3806 @@
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\!24B5000
+100.0% (.) Generic OLE2 / Multistream Compound (8000/1)
+       Definition   : docfile.trid.xml
+         Files      : 310
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : http://mark0.net
+         Related URL: https://en.wikipedia.org/wiki/Compound_File_Binary_Format
+         Remarks    : Used by various applications of the Microsoft Office suite, for example.
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\!995REP
+
+Warning: file is empty
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\!ALRYSUM
+
+Warning: file is empty
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\!BBJCAFC
+
+Warning: file is empty
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\!CAPCCBB
+
+Warning: file is empty
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\!CAT2
+
+Warning: file is empty
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\!CDHBLEB
+
+Warning: file is empty
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\!ELCOMP
+
+Warning: file is empty
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\!EMPBLK
+
+Warning: file is empty
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\!EMPLIST
+
+Warning: file is empty
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\!EST
+
+Warning: file is empty
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\!ESULT2
+
+Warning: file is empty
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\!ESULTS1
+
+Warning: file is empty
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\!F15E830
+
+Warning: file is empty
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\!FACILIT
+
+Warning: file is empty
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\!GCGAJAH
+
+Warning: file is empty
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\!IPS
+
+Warning: file is empty
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\!ISCHCOM
+
+Warning: file is empty
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\!LACKA~1
+
+Warning: file is empty
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\!LBJDBDJ
+
+Warning: file is empty
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\!LK
+
+Warning: file is empty
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\!MABBIBO
+
+Warning: file is empty
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\!N762BAC
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+100.0% (.BS/BIN) PrintFox/Pagefox bitmap (320x200) (1000/1)
+       Definition   : bitmap-printfox-s.trid.xml
+         Files      : 2
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : https://mark0.net
+         Related URL: http://fileformats.archiveteam.org/wiki/Printfox_bitmap
+         Remarks    : C64 raster format.
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\!N76BAC
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+100.0% (.BS/BIN) PrintFox/Pagefox bitmap (320x200) (1000/1)
+       Definition   : bitmap-printfox-s.trid.xml
+         Files      : 2
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : https://mark0.net
+         Related URL: http://fileformats.archiveteam.org/wiki/Printfox_bitmap
+         Remarks    : C64 raster format.
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\!OADCOMP
+
+Warning: file is empty
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\!OTICE
+100.0% (.DRW) Freelance Graphics Drawing (10000/1)
+       Definition   : drw-freelance.trid.xml
+         Files      : 65
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : http://mark0.net
+         Related URL: https://en.wikipedia.org/wiki/IBM_Lotus_Freelance_Graphics
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\!PBGAMAK
+
+Warning: file is empty
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\!RCHYPO1
+100.0% (.DRW) Freelance Graphics Drawing (10000/1)
+       Definition   : drw-freelance.trid.xml
+         Files      : 65
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : http://mark0.net
+         Related URL: https://en.wikipedia.org/wiki/IBM_Lotus_Freelance_Graphics
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\!RINT
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+100.0% (.AFF) Affix file (4000/1)
+       Definition   : affix.trid.xml
+         Files      : 7
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : http://mark0.net
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\!RKING
+
+Warning: file is empty
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\!TARRE~1
+
+Warning: file is empty
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\!TERSIG
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\!UBKEY
+
+Warning: file is empty
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\!UN96FAC
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\0-203-SU
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\0-25-SUM
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\1
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\1-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\100-125
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\12-26-CL
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\12-26-SU
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\12-SUM
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\125-150
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\13-SUM
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\14-SUM
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\15-SUM
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\150-175
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\16-SUM
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\17-SUM
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\175-203
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\18-SUM
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\19-SUM
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\20-SUM
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\21-SUM
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\22-SUM
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\24-SUM
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\25-50-SU
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\25-SUM
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\26-SUM
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\4USGS
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\4USGS-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\4VOGT18F
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\4VOGT18F-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\50-75-SU
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\73PROOF
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\73PROOF-d3r1v
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\74PROOF
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\74PROOF-d3r1v
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\75-100-S
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\75PROOF
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\75PROOF-d3r1v
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\76PROOF
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\76PROOF-d3r1v
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\77PROOF
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\77PROOF-d3r1v
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\78PROOF
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\78PROOF-d3r1v
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\79PROOF
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\84-85SUM
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\86REPORT
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\86REPORT-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\92SOW
+ 55.5% (.DOC/WS5) WordStar 5.5 document (5000/1)
+       Definition   : ws55.trid.xml
+         Files      : 4
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : http://mark0.net
+         Related URL: http://en.wikipedia.org/wiki/Wordstar
+
+ 44.4% (.DOC/WS) WordStar document (gen) (4000/1)
+       Definition   : ws-gen.trid.xml
+         Files      : 18
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : http://mark0.net
+         Related URL: http://en.wikipedia.org/wiki/Wordstar
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\93SOW
+ 55.5% (.DOC/WS5) WordStar 5.5 document (5000/1)
+       Definition   : ws55.trid.xml
+         Files      : 4
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : http://mark0.net
+         Related URL: http://en.wikipedia.org/wiki/Wordstar
+
+ 44.4% (.DOC/WS) WordStar document (gen) (4000/1)
+       Definition   : ws-gen.trid.xml
+         Files      : 18
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : http://mark0.net
+         Related URL: http://en.wikipedia.org/wiki/Wordstar
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\ACK
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\ACK-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\ACK-DIS
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\ACKNOWL
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\ACKNOWL-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\ALLTABL
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\ALT-SUM
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\ANNOUNCE
+ 30.8% (.WPD) WordPerfect 6 Document (4014/6)
+       Definition   : wp6.trid.xml
+         Files      : 47
+       Author       : Philip Storry
+         E-Mail     : phil@nospam[AT]philipstorry.net
+         Home Page  : http://www.philipstorry.net
+         Related URL: https://en.wikipedia.org/wiki/WordPerfect
+
+ 30.7% (.WPD) WordPerfect Document (generic) (4002/2)
+       Definition   : wpd-doc-gen.trid.xml
+         Files      : 16
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : http://mark0.net
+         Related URL: https://en.wikipedia.org/wiki/WordPerfect
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\APPENDA
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\APPENDA-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\APPENDB
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\APPENDB-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\APPENDC
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\APPENDC-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\APPENDD
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\APPENDD-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\APPENDIX
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\APPENDIX-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\AUTHLIST
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\AUTHLIST-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\BANDTIT
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\BINTRO
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\BINTRO-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\BIOG9
+ 30.8% (.WP) WordPerfect 5.1/5.2 document (4008/3)
+       Definition   : wp5x.trid.xml
+         Files      : 5
+       Author       : Philip Storry
+         E-Mail     : phil@nospam[AT]philipstorry.net
+         Home Page  : http://www.philipstorry.net
+
+ 30.7% (.WPD) WordPerfect Document (generic) (4002/2)
+       Definition   : wpd-doc-gen.trid.xml
+         Files      : 16
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : http://mark0.net
+         Related URL: https://en.wikipedia.org/wiki/WordPerfect
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\BLK
+ 55.5% (.DOC/WS5) WordStar 5.5 document (5000/1)
+       Definition   : ws55.trid.xml
+         Files      : 4
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : http://mark0.net
+         Related URL: http://en.wikipedia.org/wiki/Wordstar
+
+ 44.4% (.DOC/WS) WordStar document (gen) (4000/1)
+       Definition   : ws-gen.trid.xml
+         Files      : 18
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : http://mark0.net
+         Related URL: http://en.wikipedia.org/wiki/Wordstar
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\BOATPART
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\BOATPART-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\BRESULTS
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\BRESULTS-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\BYID
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\BYSID
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\CACH-SUM
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\CDFPRO1
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\CDFPRO2
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\CDFPRO2-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\CITATIO
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\CITATIO-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\CITREM2
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\CITREM2-d3r1v
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\CITREM3
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\CITREM3-d3r1v
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\CITREM4
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\CITREM4-d3r1v
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\CITREM5
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\CITREM5-d3r1v
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\CITREM6
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\CITREM6-d3r1v
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\CITREMOV
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\CITREMOV-d3r1v
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\CLASS
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\COMPUTER
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\COMPUTER-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\CONTENTS
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\CORRECT
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\CORRECT-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\DESFIG
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\DESFIG-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+
+* Error: found no file(s) to analyze!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+
+* Error: found no file(s) to analyze!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\DESLIT
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\DESLIT-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\DESSP
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\DESSP-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\DESSUM
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\DESSUM-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\DIOFFABS
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\DIOFFABS-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\DISCHCOM
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+100.0% (.AFF) Affix file (4000/1)
+       Definition   : affix.trid.xml
+         Files      : 7
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : http://mark0.net
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\DISCLAIM
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\DISCLAIM-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\DOCMEMO
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\DOCMEMO-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\DOUG67TI
+100.0% (.TIF/TIFF) Tagged Image File Format Bitmap (little endian) (4000/1)
+       Definition   : bitmap-tiff.trid.xml
+         Files      : 17
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : 
+         Related URL: http://en.wikipedia.org/wiki/Tagged_Image_File_Format
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\DPBPII
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\DRES
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\DRS-SUM
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\DURBMNTR
+ 55.5% (.DOC/WS5) WordStar 5.5 document (5000/1)
+       Definition   : ws55.trid.xml
+         Files      : 4
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : http://mark0.net
+         Related URL: http://en.wikipedia.org/wiki/Wordstar
+
+ 44.4% (.DOC/WS) WordStar document (gen) (4000/1)
+       Definition   : ws-gen.trid.xml
+         Files      : 18
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : http://mark0.net
+         Related URL: http://en.wikipedia.org/wiki/Wordstar
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\EFPART3
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\EFPART3-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\EMAP-GRE Field Operations Manua
+100.0% (.PDF) Adobe Portable Document Format (5000/1)
+       Definition   : adobe_pdf.trid.xml
+         Files      : 19
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : http://mark0.net
+         Related URL: http://en.wikipedia.org/wiki/Pdf
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\EMAP-GRE training riparian_2005
+ 79.7% (.PPS/PPT) Microsoft PowerPoint document (31500/1/2)
+       Definition   : ppt.trid.xml
+         Files      : 67
+       Author       : Roberto 'rbnet' Bolli
+         E-Mail     : infoNOSPAM@NOSPAMrbnet.it
+         Home Page  : http://www.rbnet.it/
+         Related URL: http://www.microsoft.com/office
+
+ 20.2% (.) Generic OLE2 / Multistream Compound (8000/1)
+       Definition   : docfile.trid.xml
+         Files      : 310
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : http://mark0.net
+         Related URL: https://en.wikipedia.org/wiki/Compound_File_Binary_Format
+         Remarks    : Used by various applications of the Microsoft Office suite, for example.
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\EMAP-GRE Training_inverts4_2005
+100.0% (.) Generic OLE2 / Multistream Compound (8000/1)
+       Definition   : docfile.trid.xml
+         Files      : 310
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : http://mark0.net
+         Related URL: https://en.wikipedia.org/wiki/Compound_File_Binary_Format
+         Remarks    : Used by various applications of the Microsoft Office suite, for example.
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\EMAP-GRE Training_sections 2 an
+ 79.7% (.PPS/PPT) Microsoft PowerPoint document (31500/1/2)
+       Definition   : ppt.trid.xml
+         Files      : 67
+       Author       : Roberto 'rbnet' Bolli
+         E-Mail     : infoNOSPAM@NOSPAMrbnet.it
+         Home Page  : http://www.rbnet.it/
+         Related URL: http://www.microsoft.com/office
+
+ 20.2% (.) Generic OLE2 / Multistream Compound (8000/1)
+       Definition   : docfile.trid.xml
+         Files      : 310
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : http://mark0.net
+         Related URL: https://en.wikipedia.org/wiki/Compound_File_Binary_Format
+         Remarks    : Used by various applications of the Microsoft Office suite, for example.
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\EMAP-GRE Training_sed_peri_2005
+ 79.7% (.PPS/PPT) Microsoft PowerPoint document (31500/1/2)
+       Definition   : ppt.trid.xml
+         Files      : 67
+       Author       : Roberto 'rbnet' Bolli
+         E-Mail     : infoNOSPAM@NOSPAMrbnet.it
+         Home Page  : http://www.rbnet.it/
+         Related URL: http://www.microsoft.com/office
+
+ 20.2% (.) Generic OLE2 / Multistream Compound (8000/1)
+       Definition   : docfile.trid.xml
+         Files      : 310
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : http://mark0.net
+         Related URL: https://en.wikipedia.org/wiki/Compound_File_Binary_Format
+         Remarks    : Used by various applications of the Microsoft Office suite, for example.
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\ES87SUM
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\ESDATA
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\ESOUT
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\FEDERAL
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\FIG
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\FIGURES
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\FIGURES-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\file system slack
+ 47.5% (.BIN/MACBIN) MacBinary 1 (1033/5)
+       Definition   : macbinary-1.trid.xml
+         Files      : 11
+       Author       : Joerg Jenderek
+         E-Mail     : joerg.jen.der.ek@gmx.net
+         Home Page  : 
+         Related URL: https://en.wikipedia.org/wiki/MacBinary
+         Remarks    : MacBinary is a standard for encoding Macintosh files for file transfer. At position 1 length (1-63) of filename is stored, followed by name.
+
+ 46.1% (.ABR) Adobe PhotoShop Brush (1002/3)
+       Definition   : abr.trid.xml
+         Files      : 15
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : http://mark0.net
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\FINALINT
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\FINALINT-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\FISHFIND
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\FLTTIME
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\FONTS
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\FONTS-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\FOODFIG1
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\FORJACK
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\HEAD
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\HEAD-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\HEADER
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\HEADER-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\HILIGHTS
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\HILIGHTS-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\HISTOKEY
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\HISTOKEY-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\HP EXPlus3 Port 2
+
+Warning: file is empty
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\ILCL
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\Illinois Rier
+ 50.0% (.JPG/JPEG) JFIF JPEG bitmap (4003/3)
+       Definition   : bitmap-jfif.trid.xml
+         Files      : 76
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : https://mark0.net
+         Related URL: https://en.wikipedia.org/wiki/JPEG
+
+ 37.4% (.JPG/JPEG) JPEG bitmap (3000/1)
+       Definition   : bitmap-jpeg.trid.xml
+         Files      : 78
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : https://mark0.net
+         Related URL: https://en.wikipedia.org/wiki/JPEG
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\ILMAABS4
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\ILMAABS4-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\ILMAPAPR
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\ILMAPAPR-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\ILR-SUM
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\IN
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\IN-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\INFO
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\INFO-d3r1v
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\IRSEDMNT
+ 30.8% (.WP) WordPerfect 5.1/5.2 document (4008/3)
+       Definition   : wp5x.trid.xml
+         Files      : 5
+       Author       : Philip Storry
+         E-Mail     : phil@nospam[AT]philipstorry.net
+         Home Page  : http://www.philipstorry.net
+
+ 30.7% (.WPD) WordPerfect Document (generic) (4002/2)
+       Definition   : wpd-doc-gen.trid.xml
+         Files      : 16
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : http://mark0.net
+         Related URL: https://en.wikipedia.org/wiki/WordPerfect
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\JAHN
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\JAHN-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\JETLET
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\JETLET-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\JS2
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\JS2-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\JULIA
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\JULIA-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\KAS-SUM
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\KDB-MORE
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\KDBPARA
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\KDBPARA-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\LAG-1-S
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\LAG-PEO
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\LAG-SUM
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\LATEPREP
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\LATEPREP-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\LIST6
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\LIT
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\LOADCOMP
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+100.0% (.AFF) Affix file (4000/1)
+       Definition   : affix.trid.xml
+         Files      : 7
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : http://mark0.net
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\LTER
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\LTER-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\LTERMEM
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\LTERMEM-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\LTRMCOD2
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\M7BOATS
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\M7BOATS-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\MAR-SUM
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\MELMEMO
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\MELMEMO-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\MELNOTE
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\MELNOTE-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\MEMO
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\MESINFO
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\METHODS
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\MISS
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\MISS-CL
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\MISS-IL
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\MISS-SUM
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\MORELIT
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\MORELIT-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\MRCHYPO1
+100.0% (.DRW) Freelance Graphics Drawing (10000/1)
+       Definition   : drw-freelance.trid.xml
+         Files      : 65
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : http://mark0.net
+         Related URL: https://en.wikipedia.org/wiki/IBM_Lotus_Freelance_Graphics
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\MUD-SUM
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\MUSINST
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\MUSINST-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\MUSNEWS
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\MUSNEWS-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\NEW6KEY
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\NEW6KEY-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\NEW87REP
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\NEW87REP-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\NEWLIST
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\NEWLIST2
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\NEWLIST3
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\NEWLIST4
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\NEWLIST5
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\NEWLIST6
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\NEWLIST6-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\NEWLIST8
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\NONDUPES
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\NONDUPES-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\NOT1
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\NOTES
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\NOTICE
+100.0% (.DRW) Freelance Graphics Drawing (10000/1)
+       Definition   : drw-freelance.trid.xml
+         Files      : 65
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : http://mark0.net
+         Related URL: https://en.wikipedia.org/wiki/IBM_Lotus_Freelance_Graphics
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\NUMB
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\NUMB-d3r1v
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\NWI
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\NWI1
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\NWSLTER
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\OBJSKSL
+ 30.8% (.WPD) WordPerfect 6 Document (4014/6)
+       Definition   : wp6.trid.xml
+         Files      : 47
+       Author       : Philip Storry
+         E-Mail     : phil@nospam[AT]philipstorry.net
+         Home Page  : http://www.philipstorry.net
+         Related URL: https://en.wikipedia.org/wiki/WordPerfect
+
+ 30.7% (.WPD) WordPerfect Document (generic) (4002/2)
+       Definition   : wpd-doc-gen.trid.xml
+         Files      : 16
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : http://mark0.net
+         Related URL: https://en.wikipedia.org/wiki/WordPerfect
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\OL
+ 55.5% (.DOC/WS5) WordStar 5.5 document (5000/1)
+       Definition   : ws55.trid.xml
+         Files      : 4
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : http://mark0.net
+         Related URL: http://en.wikipedia.org/wiki/Wordstar
+
+ 44.4% (.DOC/WS) WordStar document (gen) (4000/1)
+       Definition   : ws-gen.trid.xml
+         Files      : 18
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : http://mark0.net
+         Related URL: http://en.wikipedia.org/wiki/Wordstar
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\P26TLAD
+ 30.8% (.WP) WordPerfect 5.1/5.2 document (4008/3)
+       Definition   : wp5x.trid.xml
+         Files      : 5
+       Author       : Philip Storry
+         E-Mail     : phil@nospam[AT]philipstorry.net
+         Home Page  : http://www.philipstorry.net
+
+ 30.7% (.WPD) WordPerfect Document (generic) (4002/2)
+       Definition   : wpd-doc-gen.trid.xml
+         Files      : 16
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : http://mark0.net
+         Related URL: https://en.wikipedia.org/wiki/WordPerfect
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\PAR4REP
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\PAR4REP-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\PARA
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\PARA-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\PARAGR
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\PARAGR-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\PEO-SUM
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\Phaser750
+
+Warning: file is empty
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\PRE93A
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\PREPROP
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\PREPROP-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\PUB
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\PUBKEY
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\PUBKEY3
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\PUTERSEP
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\RANDE
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\RANDE-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\RICKSCV
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\RICKSCV-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\RIP
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\RIP-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\ROOF
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\ROOF-d3r1v
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\SALRYPRO
+ 79.9% (.WK4/WT4) Lotus 123 Worksheet (V4) (16001/2/1)
+       Definition   : wk4.trid.xml
+         Files      : 24
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : http://mark0.net
+         Related URL: http://www.aboutvb.de/bas/formate/pdf/wk3.pdf
+         Remarks    : WT4 is used for Worksheet template V4. revision number 1002h and sub code 0004h stored at offset 4
+
+ 20.0% (.WK3/Wk4/WT4/FM3/123) Lotus 123 Worksheet/format (V3-) (4001/2)
+       Definition   : wk-v3.trid.xml
+         Files      : 15
+       Author       : Joerg Jenderek
+         E-Mail     : joerg.jen.der.ek@gmx.net
+         Home Page  : 
+         Related URL: http://www.aboutvb.de/bas/formate/pdf/wk3.pdf
+         Remarks    : revision number is stored at offset 4
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\SASINFO
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\SEACRIT
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\SEACRIT-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\SLIDENOT
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\SLIDENOT-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\SOILEDIT
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\SOILS
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\SPARKS
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\SR-SUM
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\SRTSTUFF
+ 30.8% (.WP) WordPerfect 5.1/5.2 document (4008/3)
+       Definition   : wp5x.trid.xml
+         Files      : 5
+       Author       : Philip Storry
+         E-Mail     : phil@nospam[AT]philipstorry.net
+         Home Page  : http://www.philipstorry.net
+
+ 30.7% (.WPD) WordPerfect Document (generic) (4002/2)
+       Definition   : wpd-doc-gen.trid.xml
+         Files      : 16
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : http://mark0.net
+         Related URL: https://en.wikipedia.org/wiki/WordPerfect
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\STAFF
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\STATE
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\STATE-T
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\SUM
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\SUMMARY
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\SUMMARY-d3r1v
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\SUMMARY8
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TAB1
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TAB1-d3r1v
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TAB2
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TAB2-d3r1v
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TAB3
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TAB3-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TAB4
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABL1
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABL2
+ 30.8% (.WPD) WordPerfect 6 Document (4014/6)
+       Definition   : wp6.trid.xml
+         Files      : 47
+       Author       : Philip Storry
+         E-Mail     : phil@nospam[AT]philipstorry.net
+         Home Page  : http://www.philipstorry.net
+         Related URL: https://en.wikipedia.org/wiki/WordPerfect
+
+ 30.7% (.WPD) WordPerfect Document (generic) (4002/2)
+       Definition   : wpd-doc-gen.trid.xml
+         Files      : 16
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : http://mark0.net
+         Related URL: https://en.wikipedia.org/wiki/WordPerfect
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABL3
+ 30.8% (.WPD) WordPerfect 6 Document (4014/6)
+       Definition   : wp6.trid.xml
+         Files      : 47
+       Author       : Philip Storry
+         E-Mail     : phil@nospam[AT]philipstorry.net
+         Home Page  : http://www.philipstorry.net
+         Related URL: https://en.wikipedia.org/wiki/WordPerfect
+
+ 30.7% (.WPD) WordPerfect Document (generic) (4002/2)
+       Definition   : wpd-doc-gen.trid.xml
+         Files      : 16
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : http://mark0.net
+         Related URL: https://en.wikipedia.org/wiki/WordPerfect
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABLE1
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABLE1-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABLE10
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABLE10-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABLE11
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABLE11-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABLE12
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABLE12-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABLE13
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABLE13-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABLE14
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABLE14-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABLE15
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABLE15-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABLE17
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABLE17-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABLE18
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABLE18-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABLE19
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABLE19-d3r1v
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABLE20
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABLE20-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABLE4
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABLE4-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABLE8
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABLE8-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABLE9
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABLEB1
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABLEB1-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABLEB2
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABLEB2-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABLEB3
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABLEB3-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABLEB4
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABLEB4-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABLEB5
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABLEB5-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABLEB6
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABLEB6-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABLEB7
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABLEB7-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABLEB8
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABLEB8-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABLEB9
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABLEB9-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABLEC1
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABLEC1-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABLEC2
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABLEC2-d3r1v
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABLEC3
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABLEC3-d3r1v
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TABLES
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TEMP
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TEMP-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TEMP1
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TEMP1-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TEMPBLK
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TEMPLIST
+ 55.5% (.DOC/WS5) WordStar 5.5 document (5000/1)
+       Definition   : ws55.trid.xml
+         Files      : 4
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : http://mark0.net
+         Related URL: http://en.wikipedia.org/wiki/Wordstar
+
+ 44.4% (.DOC/WS) WordStar document (gen) (4000/1)
+       Definition   : ws-gen.trid.xml
+         Files      : 18
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : http://mark0.net
+         Related URL: http://en.wikipedia.org/wiki/Wordstar
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TEST
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TEST-d3r1v
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TEST2
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TEST2-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TITLE
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TITLE2
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TITLEPG
+100.0% (.ROM) MSX2 ROM Image (2000/1)
+       Definition   : rom-msx2.trid.xml
+         Files      : 12
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : http://mark0.net
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TITLEPG-d3r1v
+100.0% (.ROM) MSX2 ROM Image (2000/1)
+       Definition   : rom-msx2.trid.xml
+         Files      : 12
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : http://mark0.net
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TLMEMO
+ 30.8% (.WP) WordPerfect 5.1/5.2 document (4008/3)
+       Definition   : wp5x.trid.xml
+         Files      : 5
+       Author       : Philip Storry
+         E-Mail     : phil@nospam[AT]philipstorry.net
+         Home Page  : http://www.philipstorry.net
+
+ 30.7% (.WPD) WordPerfect Document (generic) (4002/2)
+       Definition   : wpd-doc-gen.trid.xml
+         Files      : 16
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : http://mark0.net
+         Related URL: https://en.wikipedia.org/wiki/WordPerfect
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TOC
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TODOYET
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TOFC
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TOFC-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TT
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\TT-d3r1v
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\UIMED
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\UIMED-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\UMRBAMEM
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\UMRBAMEM-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\UMRLENT
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\UMRLENT-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\UOME
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\UOME-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\VEG
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\VEG-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\VEGSUM
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\VEGSUM-d3r1v
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\VELCOMP
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+100.0% (.AFF) Affix file (4000/1)
+       Definition   : affix.trid.xml
+         Files      : 7
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : http://mark0.net
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\WCSNEEDS
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\WELCOME
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\WELCOME-d3r1v
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\WETFIGS
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\WETSUIT
+ 30.8% (.WP) WordPerfect 5.1/5.2 document (4008/3)
+       Definition   : wp5x.trid.xml
+         Files      : 5
+       Author       : Philip Storry
+         E-Mail     : phil@nospam[AT]philipstorry.net
+         Home Page  : http://www.philipstorry.net
+
+ 30.7% (.WPD) WordPerfect Document (generic) (4002/2)
+       Definition   : wpd-doc-gen.trid.xml
+         Files      : 16
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : http://mark0.net
+         Related URL: https://en.wikipedia.org/wiki/WordPerfect
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\WL4PETE
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\WORKING
+ 55.5% (.DOC/WS5) WordStar 5.5 document (5000/1)
+       Definition   : ws55.trid.xml
+         Files      : 4
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : http://mark0.net
+         Related URL: http://en.wikipedia.org/wiki/Wordstar
+
+ 44.4% (.DOC/WS) WordStar document (gen) (4000/1)
+       Definition   : ws-gen.trid.xml
+         Files      : 18
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : http://mark0.net
+         Related URL: http://en.wikipedia.org/wiki/Wordstar
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\WRKING
+ 55.5% (.DOC/WS5) WordStar 5.5 document (5000/1)
+       Definition   : ws55.trid.xml
+         Files      : 4
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : http://mark0.net
+         Related URL: http://en.wikipedia.org/wiki/Wordstar
+
+ 44.4% (.DOC/WS) WordStar document (gen) (4000/1)
+       Definition   : ws-gen.trid.xml
+         Files      : 18
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : http://mark0.net
+         Related URL: http://en.wikipedia.org/wiki/Wordstar
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\ZEEBGRO
+ 30.8% (.WP) WordPerfect 5.1/5.2 document (4008/3)
+       Definition   : wp5x.trid.xml
+         Files      : 5
+       Author       : Philip Storry
+         E-Mail     : phil@nospam[AT]philipstorry.net
+         Home Page  : http://www.philipstorry.net
+
+ 30.7% (.WPD) WordPerfect Document (generic) (4002/2)
+       Definition   : wpd-doc-gen.trid.xml
+         Files      : 16
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : http://mark0.net
+         Related URL: https://en.wikipedia.org/wiki/WordPerfect
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\target files\ZMADD
+ 30.8% (.WP) WordPerfect 5.1/5.2 document (4008/3)
+       Definition   : wp5x.trid.xml
+         Files      : 5
+       Author       : Philip Storry
+         E-Mail     : phil@nospam[AT]philipstorry.net
+         Home Page  : http://www.philipstorry.net
+
+ 30.7% (.WPD) WordPerfect Document (generic) (4002/2)
+       Definition   : wpd-doc-gen.trid.xml
+         Files      : 16
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : http://mark0.net
+         Related URL: https://en.wikipedia.org/wiki/WordPerfect

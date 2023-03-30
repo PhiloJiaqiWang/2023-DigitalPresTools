@@ -1,0 +1,74 @@
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\BulkRenamingExample\ihavenoextension
+
+Warning: file seems to be plain text/ASCII
+         TrID is best suited to analyze binary files!
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\BulkRenamingExample\Love4.txt
+
+Warning: file is empty
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\BulkRenamingExample\Newspaper The QUE Report  Enhancing the Quality of Undergraduate Education at the University of Illinois at UrbanaChampaign (May 4 1888 reprinted Nov 1888).pdf
+100.0% (.PDF) Adobe Portable Document Format (5000/1)
+       Definition   : adobe_pdf.trid.xml
+         Files      : 19
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : http://mark0.net
+         Related URL: http://en.wikipedia.org/wiki/Pdf
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\BulkRenamingExample\sub1\Iloveyou8.txt
+
+Warning: file is empty
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\BulkRenamingExample\sub1\clear\8.txt
+
+Warning: file is empty
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\BulkRenamingExample\sub1\clear\s8.txt
+
+Warning: file is empty
+
+       Unknown!
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\BulkRenamingExample\sub3\mushroom.txt
+
+Warning: file is empty
+
+       Unknown!

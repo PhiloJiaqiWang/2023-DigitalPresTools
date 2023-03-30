@@ -1,0 +1,80 @@
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-03-02T08:58:45Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="X:\2401001\preservation\ChancellorFiles19661988\ChancellorFiles19661987\z1985\01)GeneralSubjectFiles1985\AuditReports1985\InstituteofAviation,WillardAirportConcessionaireContractComplianceReview"; cleaned up name="X:\2401001\preservation\ChancellorFiles19661988\ChancellorFiles19661987\z1985\01)GeneralSubjectFiles1985\AuditReports1985\InstituteofAviationWillardAirportConcessionaireContractComplianceReview"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-03-02T08:58:45Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="X:\2401001\access\nearline\ChancellorFiles19661988\z1985\01)GeneralSubjectFiles1985\AuditReports1985\InstituteofAviation,WillardAirportConcessionaireContractComplianceReview"; cleaned up name="X:\2401001\access\nearline\ChancellorFiles19661988\z1985\01)GeneralSubjectFiles1985\AuditReports1985\InstituteofAviationWillardAirportConcessionaireContractComplianceReview"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-03-02T08:58:45Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="X:\2401001\preservation\ChancellorFiles19661988\ChancellorFiles19661987\z1985\05)AcademicUnitBudgetFiles1985\Education_(B)84-85"; cleaned up name="X:\2401001\preservation\ChancellorFiles19661988\ChancellorFiles19661987\z1985\05)AcademicUnitBudgetFiles1985\Education(B)8485"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-03-02T08:58:45Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="X:\2401001\access\nearline\ChancellorFiles19661988\z1985\05)AcademicUnitBudgetFiles1985\Education_(B)84-85"; cleaned up name="X:\2401001\access\nearline\ChancellorFiles19661988\z1985\05)AcademicUnitBudgetFiles1985\Education(B)8485"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+

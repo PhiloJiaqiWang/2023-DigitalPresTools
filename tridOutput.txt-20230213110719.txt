@@ -1,0 +1,231 @@
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\ED\drive-download-20221215T152948Z-001\IMG_4290.jpeg
+ 32.2% (.JPG/JPEG) JFIF-EXIF JPEG Bitmap (5000/1/1)
+       Definition   : bitmap-jfif-exif.trid.xml
+         Files      : 12
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : https://mark0.net
+         Related URL: https://en.wikipedia.org/wiki/JPEG
+
+ 25.8% (.JPG/JPEG) JFIF JPEG bitmap (4003/3)
+       Definition   : bitmap-jfif.trid.xml
+         Files      : 76
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : https://mark0.net
+         Related URL: https://en.wikipedia.org/wiki/JPEG
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\ED\drive-download-20221215T152948Z-001\IMG_4291.jpeg
+ 38.4% (.JPG/JPEG) JFIF-EXIF JPEG Bitmap (5000/1/1)
+       Definition   : bitmap-jfif-exif.trid.xml
+         Files      : 12
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : https://mark0.net
+         Related URL: https://en.wikipedia.org/wiki/JPEG
+
+ 30.7% (.JPG/JPEG) JFIF JPEG bitmap (4003/3)
+       Definition   : bitmap-jfif.trid.xml
+         Files      : 76
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : https://mark0.net
+         Related URL: https://en.wikipedia.org/wiki/JPEG
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\ED\drive-download-20221215T152948Z-001\IMG_4292.jpeg
+ 38.4% (.JPG/JPEG) JFIF-EXIF JPEG Bitmap (5000/1/1)
+       Definition   : bitmap-jfif-exif.trid.xml
+         Files      : 12
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : https://mark0.net
+         Related URL: https://en.wikipedia.org/wiki/JPEG
+
+ 30.7% (.JPG/JPEG) JFIF JPEG bitmap (4003/3)
+       Definition   : bitmap-jfif.trid.xml
+         Files      : 76
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : https://mark0.net
+         Related URL: https://en.wikipedia.org/wiki/JPEG
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\ED\drive-download-20221215T152948Z-001\IMG_4294.jpeg
+ 32.2% (.JPG/JPEG) JFIF-EXIF JPEG Bitmap (5000/1/1)
+       Definition   : bitmap-jfif-exif.trid.xml
+         Files      : 12
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : https://mark0.net
+         Related URL: https://en.wikipedia.org/wiki/JPEG
+
+ 25.8% (.JPG/JPEG) JFIF JPEG bitmap (4003/3)
+       Definition   : bitmap-jfif.trid.xml
+         Files      : 76
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : https://mark0.net
+         Related URL: https://en.wikipedia.org/wiki/JPEG
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\ED\drive-download-20221215T152948Z-001\IMG_4295.jpeg
+ 38.4% (.JPG/JPEG) JFIF-EXIF JPEG Bitmap (5000/1/1)
+       Definition   : bitmap-jfif-exif.trid.xml
+         Files      : 12
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : https://mark0.net
+         Related URL: https://en.wikipedia.org/wiki/JPEG
+
+ 30.7% (.JPG/JPEG) JFIF JPEG bitmap (4003/3)
+       Definition   : bitmap-jfif.trid.xml
+         Files      : 76
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : https://mark0.net
+         Related URL: https://en.wikipedia.org/wiki/JPEG
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\ED\drive-download-20221215T152948Z-001\IMG_4297.jpeg
+ 38.4% (.JPG/JPEG) JFIF-EXIF JPEG Bitmap (5000/1/1)
+       Definition   : bitmap-jfif-exif.trid.xml
+         Files      : 12
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : https://mark0.net
+         Related URL: https://en.wikipedia.org/wiki/JPEG
+
+ 30.7% (.JPG/JPEG) JFIF JPEG bitmap (4003/3)
+       Definition   : bitmap-jfif.trid.xml
+         Files      : 76
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : https://mark0.net
+         Related URL: https://en.wikipedia.org/wiki/JPEG
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\ED\drive-download-20221215T152948Z-001\IMG_4298.jpeg
+ 38.4% (.JPG/JPEG) JFIF-EXIF JPEG Bitmap (5000/1/1)
+       Definition   : bitmap-jfif-exif.trid.xml
+         Files      : 12
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : https://mark0.net
+         Related URL: https://en.wikipedia.org/wiki/JPEG
+
+ 30.7% (.JPG/JPEG) JFIF JPEG bitmap (4003/3)
+       Definition   : bitmap-jfif.trid.xml
+         Files      : 76
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : https://mark0.net
+         Related URL: https://en.wikipedia.org/wiki/JPEG
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\ED\drive-download-20221215T152948Z-001\IMG_4299.jpeg
+ 38.4% (.JPG/JPEG) JFIF-EXIF JPEG Bitmap (5000/1/1)
+       Definition   : bitmap-jfif-exif.trid.xml
+         Files      : 12
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : https://mark0.net
+         Related URL: https://en.wikipedia.org/wiki/JPEG
+
+ 30.7% (.JPG/JPEG) JFIF JPEG bitmap (4003/3)
+       Definition   : bitmap-jfif.trid.xml
+         Files      : 76
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : https://mark0.net
+         Related URL: https://en.wikipedia.org/wiki/JPEG
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\ED\drive-download-20221215T152948Z-001\IMG_4300.jpeg
+ 32.2% (.JPG/JPEG) JFIF-EXIF JPEG Bitmap (5000/1/1)
+       Definition   : bitmap-jfif-exif.trid.xml
+         Files      : 12
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : https://mark0.net
+         Related URL: https://en.wikipedia.org/wiki/JPEG
+
+ 25.8% (.JPG/JPEG) JFIF JPEG bitmap (4003/3)
+       Definition   : bitmap-jfif.trid.xml
+         Files      : 76
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : https://mark0.net
+         Related URL: https://en.wikipedia.org/wiki/JPEG
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\ED\drive-download-20221215T152948Z-001\IMG_4301.jpeg
+ 38.4% (.JPG/JPEG) JFIF-EXIF JPEG Bitmap (5000/1/1)
+       Definition   : bitmap-jfif-exif.trid.xml
+         Files      : 12
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : https://mark0.net
+         Related URL: https://en.wikipedia.org/wiki/JPEG
+
+ 30.7% (.JPG/JPEG) JFIF JPEG bitmap (4003/3)
+       Definition   : bitmap-jfif.trid.xml
+         Files      : 76
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : https://mark0.net
+         Related URL: https://en.wikipedia.org/wiki/JPEG
+
+TrID/32 - File Identifier v2.10 - (C) 2003-11 By M.Pontello
+Definitions found:  15648
+Analyzing...
+
+Collecting data from file: C:\Users\jiaqi17\Desktop\ED\drive-download-20221215T152948Z-001\IMG_4302.jpeg
+ 32.2% (.JPG/JPEG) JFIF-EXIF JPEG Bitmap (5000/1/1)
+       Definition   : bitmap-jfif-exif.trid.xml
+         Files      : 12
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : https://mark0.net
+         Related URL: https://en.wikipedia.org/wiki/JPEG
+
+ 25.8% (.JPG/JPEG) JFIF JPEG bitmap (4003/3)
+       Definition   : bitmap-jfif.trid.xml
+         Files      : 76
+       Author       : Marco Pontello
+         E-Mail     : marcopon@gmail.com
+         Home Page  : https://mark0.net
+         Related URL: https://en.wikipedia.org/wiki/JPEG

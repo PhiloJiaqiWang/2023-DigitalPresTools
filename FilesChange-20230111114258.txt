@@ -1,0 +1,78 @@
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-01-11T11:42:58Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\BulkRenamingExample\Newspaper The QUE Report  Enhancing the Quality of Undergraduate Education at the University of Illinois at UrbanaChampaign (May 4 1999 reprinted Nov 1999).pdf"; cleaned up name="C:\Users\jiaqi17\Desktop\BulkRenamingExample\Newspaper The QUE Report  Enhancing the Quality of Undergraduate Education at the University of Illinois at UrbanaChampaign (May 4 1888 reprinted Nov 1888).pdf"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-01-11T11:42:58Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\BulkRenamingExample\sub1\Iloveyou9.txt"; cleaned up name="C:\Users\jiaqi17\Desktop\BulkRenamingExample\sub1\Iloveyou8.txt"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-01-11T11:42:58Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\BulkRenamingExample\sub1\clear\s9.txt"; cleaned up name="C:\Users\jiaqi17\Desktop\BulkRenamingExample\sub1\clear\s8.txt"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-01-11T11:42:58Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\BulkRenamingExample\sub1\clear\9.txt"; cleaned up name="C:\Users\jiaqi17\Desktop\BulkRenamingExample\sub1\clear\8.txt"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+

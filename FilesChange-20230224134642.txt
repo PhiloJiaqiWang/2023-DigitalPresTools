@@ -1,0 +1,2120 @@
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119505011\001\OriginalFiles\[root]\Clarke Is. Chute carp with tail deformity, buffalo with eroded fins, crappie with bad eye.JPG"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119505011\001\OriginalFiles\[root]\Clarke Is. Chute carp with tail deformity buffalo with eroded fins crappie with bad eye.JPG"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504980\001\OriginalFiles\[root]\WHITNEY\FREELANC\PUBLICAT\ILLINOIS\ILRVRRPT\APPD-F\COPIES\SIZ@AGE.WK4"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504980\001\OriginalFiles\[root]\WHITNEY\FREELANC\PUBLICAT\ILLINOIS\ILRVRRPT\APPD-F\COPIES\SIZAGE.WK4"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119503859\001\OriginalFiles\Session 1\Track 01\Volume_1 [ISO9660]\EMAPGRE_DataDictionary.xls"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119503859\001\OriginalFiles\Session 1\Track 01\Volume_1 [ISO9660]\EMAPGREDataDictionary.xls"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119503859\001\OriginalFiles\Session 1\Track 01\Volume_1 [Joliet]\EMAPGRE_DataDictionary.xls"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119503859\001\OriginalFiles\Session 1\Track 01\Volume_1 [Joliet]\EMAPGREDataDictionary.xls"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119503859\001\OriginalFiles\Session 1\Track 01\Volume_1 [UDF]\EMAPGRE_DataDictionary.xls"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119503859\001\OriginalFiles\Session 1\Track 01\Volume_1 [UDF]\EMAPGREDataDictionary.xls"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504980\001\OriginalFiles\[root]\WHITNEY\LOTUS\ILLINOIS\DENSITY\RCNTDED\%MORTA.WK4"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504980\001\OriginalFiles\[root]\WHITNEY\LOTUS\ILLINOIS\DENSITY\RCNTDED\MORTA.WK4"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504980\001\OriginalFiles\[root]\WHITNEY\LOTUS\ILLINOIS\DENSITY\RCNTDED\%MORTB.WK4"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504980\001\OriginalFiles\[root]\WHITNEY\LOTUS\ILLINOIS\DENSITY\RCNTDED\MORTB.WK4"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504980\001\OriginalFiles\[root]\WHITNEY\LOTUS\ILLINOIS\UNIONIDS\AGE\ACTSIZ@A.WK4"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504980\001\OriginalFiles\[root]\WHITNEY\LOTUS\ILLINOIS\UNIONIDS\AGE\ACTSIZA.WK4"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504980\001\OriginalFiles\[root]\WHITNEY\LOTUS\ILLINOIS\UNIONIDS\AGE\SIZ@AGE3.WK4"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504980\001\OriginalFiles\[root]\WHITNEY\LOTUS\ILLINOIS\UNIONIDS\AGE\SIZAGE3.WK4"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504980\001\OriginalFiles\[root]\WHITNEY\LOTUS\ILLINOIS\UNIONIDS\AGE\LEN@AGE.WK4"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504980\001\OriginalFiles\[root]\WHITNEY\LOTUS\ILLINOIS\UNIONIDS\AGE\LENAGE.WK4"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504980\001\OriginalFiles\[root]\WHITNEY\LOTUS\MISSISS\TAB-FIGS\ACTSIZ@A.WK4"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504980\001\OriginalFiles\[root]\WHITNEY\LOTUS\MISSISS\TAB-FIGS\ACTSIZA.WK4"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504980\001\OriginalFiles\[root]\WHITNEY\LOTUS\MISSISS\TAB-FIGS\SIZ@AGE2.WK4"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504980\001\OriginalFiles\[root]\WHITNEY\LOTUS\MISSISS\TAB-FIGS\SIZAGE2.WK4"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504980\001\OriginalFiles\[root]\WHITNEY\LOTUS\MISSISS\TAB-FIGS\SIZ@AGE3.WK4"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504980\001\OriginalFiles\[root]\WHITNEY\LOTUS\MISSISS\TAB-FIGS\SIZAGE3.WK4"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504980\001\OriginalFiles\[root]\WHITNEY\LOTUS\MISSISS\TAB-FIGS\SIZ@AGE.WK4"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504980\001\OriginalFiles\[root]\WHITNEY\LOTUS\MISSISS\TAB-FIGS\SIZAGE.WK4"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504980\001\OriginalFiles\[root]\WHITNEY\LOTUS\MISSISS\TAB-FIGS\VALUE$$.WK4"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504980\001\OriginalFiles\[root]\WHITNEY\LOTUS\MISSISS\TAB-FIGS\VALUE.WK4"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119505011\001\OriginalFiles\[root]\(air)barge-wake-Ill.River,27 oct.1970.JPG"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119505011\001\OriginalFiles\[root]\(air)bargewakeIll.River27 oct.1970.JPG"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119505128\001\OriginalFiles\[root]\1KDB\1PROJS\P15\CLOSURE\SEA_DENS.WK4"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119505128\001\OriginalFiles\[root]\1KDB\1PROJS\P15\CLOSURE\SEADENS.WK4"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504980\001\OriginalFiles\[root]\WHITNEY\LOTUS\MISSISS\AGE@MATR.WK4"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504980\001\OriginalFiles\[root]\WHITNEY\LOTUS\MISSISS\AGEMATR.WK4"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504980\001\OriginalFiles\[root]\WHITNEY\LOTUS\DATASHT\AGE@MAT.WK4"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504980\001\OriginalFiles\[root]\WHITNEY\LOTUS\DATASHT\AGEMAT.WK4"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504980\001\OriginalFiles\[root]\WHITNEY\LOTUS\MISSISS\LEN@AGE.WK4"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504980\001\OriginalFiles\[root]\WHITNEY\LOTUS\MISSISS\LENAGE.WK4"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504998\001\OriginalFiles\[root]\1KDB\1PROJS\ILHYDRO\90_94PHL.WK4"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504998\001\OriginalFiles\[root]\1KDB\1PROJS\ILHYDRO\9094PHL.WK4"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119505128\001\OriginalFiles\[root]\1KDB\1PROJS\LTRM\BUDS\24%CUT.WK4"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119505128\001\OriginalFiles\[root]\1KDB\1PROJS\LTRM\BUDS\24CUT.WK4"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119503859\001\OriginalFiles\Session 1\Track 01\Volume_1 [ISO9660]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119503859\001\OriginalFiles\Session 1\Track 01\Volume1 ISO9660"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119503859\001\OriginalFiles\Session 1\Track 01\Volume_1 [Joliet]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119503859\001\OriginalFiles\Session 1\Track 01\Volume1 Joliet"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119505128\001\OriginalFiles\[root]\1KDB\1PROJS\INASA\MI12_90.XLS"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119505128\001\OriginalFiles\[root]\1KDB\1PROJS\INASA\MI1290.XLS"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119505128\001\OriginalFiles\[root]\1KDB\1PROJS\INASA\MI12_91.XLS"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119505128\001\OriginalFiles\[root]\1KDB\1PROJS\INASA\MI1291.XLS"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119505128\001\OriginalFiles\[root]\1KDB\1PROJS\INASA\MI12_93.XLS"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119505128\001\OriginalFiles\[root]\1KDB\1PROJS\INASA\MI1293.XLS"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119505128\001\OriginalFiles\[root]\1KDB\1PROJS\INASA\MI12_95.XLS"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119505128\001\OriginalFiles\[root]\1KDB\1PROJS\INASA\MI1295.XLS"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119505011\001\OriginalFiles\[root]\fish, mussels, organisms.JPG"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119505011\001\OriginalFiles\[root]\fish mussels organisms.JPG"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119503859\001\OriginalFiles\Session 1\Track 01\Volume_1 [UDF]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119503859\001\OriginalFiles\Session 1\Track 01\Volume1 UDF"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119505128\001\OriginalFiles\[root]\1KDB\LISTS\MRL&DAMS.WK4"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119505128\001\OriginalFiles\[root]\1KDB\LISTS\MRLDAMS.WK4"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119503735\001\OriginalFiles\[root]\FATHD1&2.DAT"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119503735\001\OriginalFiles\[root]\FATHD12.DAT"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119503735\001\OriginalFiles\[root]\FATHN1&2.DAT"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119503735\001\OriginalFiles\[root]\FATHN12.DAT"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119503750\001\OriginalFiles\[root]\FATD12&3.DAT"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119503750\001\OriginalFiles\[root]\FATD123.DAT"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119503750\001\OriginalFiles\[root]\FATN12&3.DAT"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119503750\001\OriginalFiles\[root]\FATN123.DAT"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119505011\001\OriginalFiles\[root]\!ABLE4~1.JPG"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119505011\001\OriginalFiles\[root]\!ABLE41.JPG"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119505011\001\OriginalFiles\[root]\!HILIC~1.JPG"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119505011\001\OriginalFiles\[root]\!HILIC1.JPG"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119505011\001\OriginalFiles\[root]\!OCONC~1.JPG"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119505011\001\OriginalFiles\[root]\!OCONC1.JPG"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119503750\001\OriginalFiles\[root]\FATD1&2.DAT"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119503750\001\OriginalFiles\[root]\FATD12.DAT"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119503750\001\OriginalFiles\[root]\FATN1&2.DAT"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119503750\001\OriginalFiles\[root]\FATN12.DAT"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504261\001\OriginalFiles\[root]\FATVAR%.WK1"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504261\001\OriginalFiles\[root]\FATVAR.WK1"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504261\001\OriginalFiles\[root]\VAR&CON.WK1"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504261\001\OriginalFiles\[root]\VARCON.WK1"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504295\001\OriginalFiles\[root]\NETNG%.WK1"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504295\001\OriginalFiles\[root]\NETNG.WK1"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504949\001\OriginalFiles\[root]\!EWFOL~1"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504949\001\OriginalFiles\[root]\!EWFOL1"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119503685\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119503685\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119503693\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119503693\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119503701\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119503701\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119503719\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119503719\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119503727\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119503727\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119503735\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119503735\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119503743\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119503743\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119503750\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119503750\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119503917\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119503917\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504212\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504212\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504220\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504220\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504238\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504238\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504246\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504246\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504253\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504253\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504261\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504261\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504279\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504279\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504295\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504295\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504303\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504303\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504311\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504311\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504329\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504329\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504337\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504337\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504345\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504345\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504352\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504352\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504360\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504360\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504378\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504378\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504386\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504386\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504394\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504394\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504402\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504402\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504410\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504410\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504444\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504444\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504451\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504451\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504493\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504493\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504501\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504501\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504527\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504527\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504642\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504642\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504758\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504758\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504766\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504766\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504824\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504824\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504840\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504840\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504857\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504857\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504881\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504881\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504899\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504899\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504915\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504915\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504923\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504923\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504931\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504931\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504949\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504949\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504956\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504956\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504964\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504964\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504972\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504972\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504980\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504980\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504998\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119504998\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119505003\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119505003\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119505011\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119505011\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119505029\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119505029\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119505037\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119505037\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119505045\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119505045\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119505060\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119505060\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119505078\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119505078\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119505086\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119505086\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119505094\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119505094\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119505110\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119505110\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+
+<premis:event xmlns:premis="http://www.loc.gov/premis/v3"
+xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/v3/premis.xsd" version="3.0">
+<premis:eventIdentifier>
+<premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+<premis:eventIdentifierValue>?</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventDateTime>2023-02-24T13:46:42Z</premis:eventDateTime>
+<premis:eventDetailInformation>
+<premis:eventDetail>prohibited characters removed: program="sanitize_names"; version="?"</premis:eventDetail>
+</premis:eventDetailInformation>
+<premis:eventOutcome></premis:eventOutcome>
+<premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>Original name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119505128\001\OriginalFiles\[root]"; cleaned up name="C:\Users\jiaqi17\Desktop\4308001working - Philo\preservation\EmiquonIllinoisRiver\EmiquonIllinoisRiverContent\30112119505128\001\OriginalFiles\root"</premis:eventOutcomeDetailNote>
+</premis:eventOutcomeDetail>
+</premis:eventOutcomeInformation>
+
+
+
+
+

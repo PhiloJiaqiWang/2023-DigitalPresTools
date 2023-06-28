@@ -13,7 +13,7 @@ This tool is designed and developed by Digital Preservation Department in UIUC l
 ## What is DigitalPresTool<a name="What"></a>
 DigitalPresTool is a tool for facilitating the preservation process. It currently includes renaming the files, identifying long path files and expending extensions to extentionless files.
 ## Why use DigitalPresTool<a name="Why"></a>
-- RENAMING 
+- Renaming
 - Long Path Files 
 - Extension Appending 
 ## How to Download<a name="download"></a>
